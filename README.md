@@ -1,7 +1,6 @@
-# Railway-Management-System
+# Railway-Management-System	
 
-
-		The Data Structures-based project is designed to solve the problem of finding the shortest path between two stations in a railway network. This project is based on graphs and Dijkstra's algorithm, which is a popular algorithm for finding the shortest path in a graph. The list of trains and their timings have been stored in two notepad files, and the program reads this information using file handling techniques to process it.
+	The Data Structures-based project is designed to solve the problem of finding the shortest path between two stations in a railway network. This project is based on graphs and Dijkstra's algorithm, which is a popular algorithm for finding the shortest path in a graph. The list of trains and their timings have been stored in two notepad files, and the program reads this information using file handling techniques to process it.
 
 The project also includes a feature to store the information of the passengers by generating a unique PNR and making their ticket. This feature allows the users to book their tickets and travel on the train of their choice easily. The program is designed to handle various scenarios such as multiple trains between the same source and destination, availability of seats, and cancellation of tickets.
 
